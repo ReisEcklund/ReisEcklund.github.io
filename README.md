@@ -1,2 +1,2 @@
-* [Playground](https://ReisEcklund.github.io/Playground/index.html)
+* [Playground](https://ReisEcklund.github.io/playground/index.html)
 

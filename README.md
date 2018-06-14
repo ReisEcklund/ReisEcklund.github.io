@@ -1,2 +1,2 @@
-* [Build](https://ReisEcklund.github.io/lander/index.html)
+* [lander](https://ReisEcklund.github.io/lander/index.html)
 
